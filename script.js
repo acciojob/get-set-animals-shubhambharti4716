@@ -7,7 +7,7 @@ class Animal {
 		return this._species;
 	}
 	makeSound(){
-		console.log("The Cat makes a sound of meow")
+		console.log("The Golden Retriever makes a sound")
 	}
 }
 
